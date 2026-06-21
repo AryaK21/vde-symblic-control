@@ -114,13 +114,13 @@ python src/benchmark_plots.py
 
 ## 📄 Citation
 
-If you utilize this codebase, environment, or methodology in your own research, please cite our paper:
+This codebase accompanies a manuscript that is currently under peer review. If you utilize this codebase, environment, or methodology in your own research prior to publication, please cite it as a preprint:
 
 ```bibtex
-@article{kukkadwal2026greybox,
+@unpublished{kukkadwal2026greybox,
   title={Simulating Nuclear Plasma Movement Detection Using Physics-Informed Symbolic Regression: A Comprehensive Framework for Magnetohydrodynamic Stability},
   author={Kukkadwal, Arya and Oghe, Priya},
-  journal={Springer Nature},
+  note={Preprint. Submitted for publication.},
   year={2026}
 }
 ```
